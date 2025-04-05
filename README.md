@@ -19,4 +19,3 @@ A simple, aesthetic, and intuitive Unit Converter app built using Kotlin and Jet
 
 🛠 Android Studio — for development and testing
 
-🎨 Material Design 3 (if used) — for beautiful components
